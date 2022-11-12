@@ -2,7 +2,7 @@
 
 This is the beginning of a chess engine.
 The idea is to store any piece on any square,
-using 4 64-bit words to record the board state (see chess.rs/'struct Board').
+using 4 64-bit words to record the board state (see rust/chess.rs/'struct Board').
 It is designed so that each square may contain any one of the 13 options:
 (empty, and for each of the two colors: pawn, knight, bishop, rook, queen, or king).
 
