@@ -15,7 +15,7 @@ it is helpful to have an efficient means of storing board positions,
 so that a large number of positions can be held in memory.
 
 It is also helpful to be able to rapidly calculate
-possible next-move positions from a given starting position.
+possible next-move positions from a given initial position.
 This board-position model has been designed with that in mind.
 Calculation of possible next moves will be the next step forward for this project.
 
